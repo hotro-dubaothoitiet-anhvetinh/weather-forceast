@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Xin chào bạn đến với trang hỗ trợ của ứng dụng dự báo thời tiết và hình ảnh vệ tinh
+Ứng dụng phiên bản đầu tiên hỗ trợ những chức năng sau:
+- Nhận được dự báo chính xác về thời tiết hàng ngày, hàng giờ ở Việt Nam.
+- Cảnh báo thời tiết khắc nghiệt.
+- Cung cấp bản đồ mây, mưa vệ tinh giúp bạn có thể tự mình nhận định về thời tiết trong tương lai gần.
 
-You can use the [editor on GitHub](https://github.com/hotro-dubaothoitiet-anhvetinh/weather-forceast/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hỗ trợ và liên lạc
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hotro-dubaothoitiet-anhvetinh/weather-forceast/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mọi ý kiến đóng góp vui lòng gửi qua email hotro.dubaothoitiet.anhvetinh@gmail.com. Chúng tôi sẽ trả lời trong thời gian sớm nhất.
